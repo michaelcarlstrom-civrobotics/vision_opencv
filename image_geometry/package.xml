@@ -19,6 +19,8 @@
   <buildtool_depend>ament_cmake_python</buildtool_depend>
   <buildtool_depend>ament_cmake_ros</buildtool_depend>
 
+  <build_depend>libopencv-dev</build_depend>
+
   <depend>libopencv-core-dev</depend>
   <depend>libopencv-imgproc-dev</depend>
   <depend>libopencv-calib3d-dev</depend>
