@@ -22,7 +22,9 @@
   <build_depend>libboost-dev</build_depend>
   <build_depend>libboost-python-dev</build_depend>
 
-  <depend>libopencv-dev</depend>
+  <depend>libopencv-core-dev</depend>
+  <depend>libopencv-imgproc-dev</depend>
+  <depend>libopencv-imgcodecs-dev</depend>
   <depend>python3-numpy</depend>
   <depend>rclcpp</depend>
   <depend>rcpputils</depend>
